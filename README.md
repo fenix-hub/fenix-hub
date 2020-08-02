@@ -68,7 +68,7 @@ I'm into partecipating and contributing to communities and open source projects 
 
 #### :books: Frameworks I use
 <a href="">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/godot_flat.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
 </a>
 <a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/gatsby.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
