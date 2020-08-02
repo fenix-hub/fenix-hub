@@ -32,63 +32,41 @@ I'm into partecipating and contributing to communities and open source projects 
 <hr></hr>
 
 #### :hammer_and_wrench: Tools I use  
-<a href="">
+<p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visual_studio_code" style="vertical-align:top; margin:6px 4px">
-</a>
-
+</p>
 <hr></hr>
 
 #### :page_with_curl: Languages I "speak"
-<a href="">
+<p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/gdscript.svg" alt="gdscript" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-</a>
+</p>
 
 <hr></hr>
 
-#### :books: Frameworks I use
-<a href="">
+#### :books: Frameworks I use  
+<p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/godot_flat.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/gatsby.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-</a>
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
+</p>
 
 <hr></hr>
 
 #### :robot: Platforms and Hardwares
-<a href="">
+<p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
-</a>
-<a href="">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/devices/arduino.svg" alt="arduino" style="vertical-align:top; margin:6px 4px">
-</a>
+</p>
 
 <hr></hr>
 
