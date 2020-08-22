@@ -62,7 +62,19 @@ I'm into partecipating and contributing to communities and open source projects 
 
 <hr></hr>
 
-#### :robot: Platforms and Hardwares
+#### :busstop: Services I use  
+<p>
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/firebase.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nakama.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nuget.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+</p>
+
+<hr></hr>
+
+#### :robot: Platforms and Hardwares I love
 <p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/devices/arduino.svg" alt="arduino" style="vertical-align:top; margin:6px 4px">
