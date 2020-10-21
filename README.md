@@ -1,12 +1,11 @@
 ### Hi, my name is Nicolò, known on the web as 'fenix' 👋
 Italian, male, class '97.  
-I don't consider myself a programmer nor a developer. I love learning stuff and I can't stop doing it.  
-I graduated from the [Politecnico di Bari](http://www.poliba.it/) with a degree in Computer Science and Automation Engineering.  
 I've awlays been fascinated by robots and science fiction since I was a little kid, and having the opportunity to play around with LEGO and very old computers let me develop my interest into a passion, and then a job.  
 From hardware to software, I love spending my spare time in projects involving a variety of platforms, tecnologies and languages.  
 I'm into partecipating and contributing to communities and open source projects that share my same interests, and where I can find my knowledge useful.  
 
 - 🔭 I’m currently working on several personal projects involving [Godot Engine](https://godotengine.org/) and Godot Engine plugins
+- :mortar_board: I graduated from the [Politecnico di Bari](http://www.poliba.it/) with a degree in Computer Science and Automation Engineering.  
 - 🌱 I’m currently attending a Second Cycle Degree in Automation Engeneering, with a specialization in *Cyber Physical Systems*
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play the piano for classical, jazz and electronic/digital music. Martial arts are one of my passions, and I attend a Krav Maga course.  
