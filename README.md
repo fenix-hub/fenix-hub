@@ -7,8 +7,6 @@ I'm into partecipating and contributing to communities and open source projects 
 - 🔭 I’m currently working on several personal projects involving [Godot Engine](https://godotengine.org/) and Godot Engine plugins
 - :mortar_board: I graduated from the [Politecnico di Bari](http://www.poliba.it/) with a degree in Computer Science and Automation Engineering.  
 - 🌱 I’m currently attending a Second Cycle Degree in Automation Engeneering, with a specialization in *Cyber Physical Systems*
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I play the piano for classical, jazz and electronic/digital music. Martial arts are one of my passions, and I attend a Krav Maga course.  
 
 #### :e-mail: You can contact me via  
 <a href="mailto:n.santilio97@gmail.com">
