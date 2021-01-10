@@ -26,7 +26,7 @@ I'm into partecipating and contributing to communities and open source projects 
 
 <hr></hr>
 
-#### :hammer_and_wrench: Tools I use  
+#### :hammer_and_wrench: IDEs I use  
 <p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
