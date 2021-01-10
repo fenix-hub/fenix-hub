@@ -62,12 +62,13 @@ I'm into partecipating and contributing to communities and open source projects 
 
 #### :busstop: Services I use  
 <p>
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/firebase.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nakama.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nuget.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/supabase.svg" alt="supabase" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nakama.svg" alt="nakama" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
 </p>
 
 <hr></hr>
