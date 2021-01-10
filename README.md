@@ -14,6 +14,9 @@ I'm into partecipating and contributing to communities and open source projects 
 <a href="mailto:n.santilio97@gmail.com">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
 </a>
+<a href="mailto:nicolo.santilio@outlook.com">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+</a>
 <a href="https://www.linkedin.com/in/nicol%C3%B2-santilio-52b714b1/">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
