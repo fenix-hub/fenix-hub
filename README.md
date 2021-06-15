@@ -38,8 +38,6 @@ I'm into partecipating and contributing to communities and open source projects 
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/gdscript.svg" alt="gdscript" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
 </p>
 
 <hr></hr>
@@ -48,8 +46,6 @@ I'm into partecipating and contributing to communities and open source projects 
 <p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/godot_flat.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/gatsby.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
 </p>
 
