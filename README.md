@@ -49,6 +49,7 @@ I'm into partecipating and contributing to communities and open source projects 
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/godot_flat.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/vaadin.svg" alt="vaadin" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/postgresql.svg" alt="postgresql" style="vertical-align:top; margin:6px 4px">
 </p>
 
 <hr></hr>
