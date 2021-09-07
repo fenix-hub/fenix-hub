@@ -24,6 +24,7 @@ I'm into partecipating and contributing to communities and open source projects 
 
 <hr></hr>
 
+<!--
 #### :hammer_and_wrench: IDEs I use  
 <p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
@@ -71,13 +72,16 @@ I'm into partecipating and contributing to communities and open source projects 
 </p>
 
 <hr></hr>
-
+-->
 #### :video_game: Gaming
 <a href="https://steamcommunity.com/profiles/76561198137563334/">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
 </a>
-<a href="">
+<a href="https://psnprofiles.com/fenicenera97">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/devices/playstation.svg" alt="playstation" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/devices/oculus.svg" alt="oculus" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <hr></hr>
