@@ -42,11 +42,12 @@ I'm into partecipating and contributing to communities and open source projects 
 </p>
 
 <hr></hr>
+-->
 
 #### :books: Frameworks I use  
 <p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/godot_flat.svg" alt="godot" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/gatsby.svg" alt="gatsby" style="vertical-align:top; margin:6px 4px">
+  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/vaadin.svg" alt="vaadin" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
 </p>
 
@@ -56,11 +57,8 @@ I'm into partecipating and contributing to communities and open source projects 
 <p>
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/firebase.svg" alt="firebase" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/supabase.svg" alt="supabase" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nakama.svg" alt="nakama" style="vertical-align:top; margin:6px 4px">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
 </p>
 
 <hr></hr>
@@ -72,7 +70,7 @@ I'm into partecipating and contributing to communities and open source projects 
 </p>
 
 <hr></hr>
--->
+
 #### :video_game: Gaming
 <a href="https://steamcommunity.com/profiles/76561198137563334/">
   <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
