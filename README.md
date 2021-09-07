@@ -1,4 +1,4 @@
-### Hi, my name is Nicolò, known on the web as 'fenix' 👋
+### Hi, my name is Nicolò <!--, known on the web as 'fenix'--> 👋
 I'm into partecipating and contributing to communities and open source projects that share my same interests, and where I can find my knowledge useful.  
 
 - 🔭 I’m currently working on several personal projects involving [Godot Engine](https://godotengine.org/) and Godot Engine plugins
