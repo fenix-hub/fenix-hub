@@ -46,7 +46,7 @@ I'm into partecipating and contributing to communities and open source projects 
 <hr></hr>
 -->
 
-#### :book: Frameworks
+#### :book: Frameworks/Environments
 <p>
     <a href="https://godotengine.org" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&logoWidth=15&style=for-the-badge" alt="godot" style="height:30px;">
@@ -56,6 +56,12 @@ I'm into partecipating and contributing to communities and open source projects 
     </a>
     <a href="https://vaadin.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Vaadin-00B4F0?logo=vaadin&logoColor=white&logoWidth=15&style=for-the-badge" alt="vaadin" style="height:30px;">
+    </a>
+    <a href="https://android.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&logoWidth=15&style=for-the-badge" alt="android" style="height:30px;">
+    </a>    
+    <a href="https://qt.io" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&logoWidth=15&style=for-the-badge" alt="qt" style="height:30px;">
     </a>
 </p>
 
