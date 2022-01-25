@@ -46,17 +46,34 @@ I'm into partecipating and contributing to communities and open source projects 
 <hr></hr>
 -->
 
-#### :books: Frameworks
+#### :book: Frameworks
 <p>
-  <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&logoWidth=15&style=for-the-badge" alt="godot" style="height:30px;">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&logoWidth=15&style=for-the-badge" alt="angular" style="height:30px;">
-  <img src="https://img.shields.io/badge/-Vaadin-00B4F0?logo=vaadin&logoColor=white&logoWidth=15&style=for-the-badge" alt="vaadin" style="height:30px;">
-<!--
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
-  <img src="https://github.com/fenix-hub/ColoredBadges/blob/master/svg/dev/frameworks/postgresql.svg" alt="postgresql" style="vertical-align:top; margin:6px 4px">
--->
+    <a href="https://godotengine.org" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&logoWidth=15&style=for-the-badge" alt="godot" style="height:30px;">
+    </a>
+    <a href="https://angular.io" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&logoWidth=15&style=for-the-badge" alt="angular" style="height:30px;">
+    </a>
+    <a href="https://vaadin.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Vaadin-00B4F0?logo=vaadin&logoColor=white&logoWidth=15&style=for-the-badge" alt="vaadin" style="height:30px;">
+    </a>
 </p>
 
+#### :open_file_folder: Database
+<p>
+    <a href="https://sqlite.org" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&logoWidth=15&style=for-the-badge" alt="sqlite" style="height:30px;">
+    </a>
+    <a href="https://mysql.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=15&style=for-the-badge" alt="mysql" style="height:30px;">
+    </a>
+    <a href="https://postgresql.org" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&logoWidth=15&style=for-the-badge" alt="postgresql" style="height:30px;">
+    </a>
+    <a href="https://mongodb.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=15&style=for-the-badge" alt="mongodb" style="height:30px;">
+    </a>
+</p>
 
 #### :busstop: Services
 <p>
@@ -77,7 +94,7 @@ I'm into partecipating and contributing to communities and open source projects 
 
 #### :video_game: Gaming
 <p>
-  <a href="link=https://steamcommunity.com/profiles/76561198137563334/" style="text-decoration: none;">
+  <a href="https://steamcommunity.com/profiles/76561198137563334/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&logoWidth=15&style=for-the-badge" alt="steam" style="height:30px;">
   </a>
   <a href="https://psnprofiles.com/fenicenera97" style="text-decoration: none;">
