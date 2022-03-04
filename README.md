@@ -51,11 +51,14 @@ I'm into partecipating and contributing to communities and open source projects 
     <a href="https://godotengine.org" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&logoWidth=15&style=for-the-badge" alt="godot" style="height:30px;">
     </a>
-    <a href="https://angular.io" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&logoWidth=15&style=for-the-badge" alt="angular" style="height:30px;">
+    <a href="https://quarkus.io" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Quarkus-4695EB?logo=quarkus&logoColor=white&logoWidth=15&style=for-the-badge" alt="quarkus" style="height:30px;">
     </a>
     <a href="https://vaadin.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Vaadin-00B4F0?logo=vaadin&logoColor=white&logoWidth=15&style=for-the-badge" alt="vaadin" style="height:30px;">
+    </a>
+    <a href="https://angular.io" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&logoWidth=15&style=for-the-badge" alt="angular" style="height:30px;">
     </a>
     <a href="https://android.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&logoWidth=15&style=for-the-badge" alt="android" style="height:30px;">
