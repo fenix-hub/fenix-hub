@@ -5,6 +5,9 @@ I'm into partecipating and contributing to communities and open source projects 
 - :mortar_board: I graduated from the [Politecnico di Bari](http://www.poliba.it/) with a degree in Computer Science and Automation Engineering.  
 - 🌱 I’m currently attending a Second Cycle Degree in Automation Engeneering, with a specialization in *Cyber Physical Systems*
 
-#### :earth_americas: Websites
+#### 🌐 Websites
 - [Personal Website](https://www.nicolosantilio.com/)
 - [Godot Engine Italia - Official Community](https://godotengineitalia.com/)
+
+#### 💬 Socials
+<a rel="me" href="https://mastodon.gamedev.place/@fenixhub">![mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)</a>
