@@ -6,7 +6,7 @@ I'm into partecipating and contributing to communities and open source projects 
 - 🌱 I’m currently attending a Second Cycle Degree in Automation Engeneering, with a specialization in *Cyber Physical Systems*
 
 #### 🌐 Websites
-- [Personal Website](https://www.nicolosantilio.com/)
+- [Personal Website](https://www.nicolosantilio.space/)
 - [Godot Engine Italia - Official Community](https://godotengineitalia.com/)
 
 #### 💬 Socials
